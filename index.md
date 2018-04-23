@@ -1,1 +1,1 @@
-:) DEVA ZU
+      window.location.href = '/';
